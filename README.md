@@ -14,3 +14,4 @@ A high-performance Python tool to scan all 65,535 TCP ports on any host using mu
 ---
 
 ## 📸 Preview
+![image](https://github.com/user-attachments/assets/cadc88dc-ebfc-45c9-9e88-f46741988422)
