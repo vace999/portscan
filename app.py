@@ -1,5 +1,5 @@
 import socket
-import threading
+import threading,os
 from colorama import Fore, init
 
 init()
@@ -80,6 +80,6 @@ class PortScanner:
 
 cmd = input("Host/IP: ")
 cmd2 = int(input("Threads: "))
-
+os.system("cls")
 scanner = PortScanner(cmd)
 scanner.scan(threads=cmd2)
